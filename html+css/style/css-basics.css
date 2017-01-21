@@ -1,0 +1,22 @@
+span {
+    color: green;
+}
+
+ p{
+   font-size: 16px;
+ }
+ .red{
+   color: #f00;
+ }
+ .bold{
+   font-weight: bold;
+ }
+ #small{
+   font-size: 9px;
+ }
+
+ #google-link {
+     text-decoration: none;
+     color: #115298;
+     font-size: 1.5em;
+ }
